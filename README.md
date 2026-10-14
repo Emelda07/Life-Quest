@@ -7,7 +7,6 @@ A pixel-art life tracker with a virtual pet. Tell your pet what you did today
 and it levels up. It cheers when you hit your goals and gets sad (but stays
 encouraging) when you slip.
 
-**Play it:** https://emelda07.github.io/life-quest/
 
 ## Features
 - Up to 6 goals, each with an attribute (like Fitness) and a weekly target
